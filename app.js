@@ -4,7 +4,7 @@ var genBtn = document.getElementById("generate");
 
 var players = [
     "Trout",
-    "Shen",
+    "Shén",
     "Kartik",
     "BotKilla"
 ];

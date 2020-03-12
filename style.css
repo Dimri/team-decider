@@ -1,10 +1,11 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: ubuntu;
+    font-family: montserrat;
     font-size: 40px;
     --dark-bg: #222222 ;
     --dark-2: #1F1F1F;
+    --dark-3: #303030;
     color: white;
 }
 
@@ -24,12 +25,15 @@ body {
 }
 
 .top {
-    margin-top: 100px;
+    font-variant: small-caps;
+    font-weight: 700;
+    margin: 100px;
     display: flex;
 }
 
 .bottom {
     margin: auto;
+    padding: 10px;
 }
 
 #team1, #team2 {
@@ -48,4 +52,5 @@ button {
 button:hover {
     cursor: pointer;
     border: 2px solid white;
+    background-color: var(--dark-3);
 }
