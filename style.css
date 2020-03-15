@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: montserrat;
+    font-family: montserrat, sans-serif;
     font-size: 40px;
     --dark-bg: #222222 ;
     --dark-2: #1F1F1F;
