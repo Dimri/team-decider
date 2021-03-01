@@ -3,10 +3,10 @@ var team2 = document.getElementById("team2");
 var genBtn = document.getElementById("generate");
 
 var players = [
-    "Trout",
-    "Shén",
-    "Kartik",
-    "BotKilla"
+    "Player 1",
+    "Player 2",
+    "Player 3",
+    "Player 4"
 ];
 
 (function () {
